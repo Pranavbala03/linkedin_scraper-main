@@ -9,7 +9,7 @@
   "author": "Quadren",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^21.0.2",
+    "puppeteer": "^21.1.0",
     "puppeteer-autoscroll-down": "^1.1.2"
   }
 }
