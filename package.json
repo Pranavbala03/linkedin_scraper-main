@@ -1,0 +1,15 @@
+{
+  "name": "linkedin_scraper",
+  "version": "1.0.0",
+  "description": "A LinkedIn scraper designed for Fizz.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quadren",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.0.2",
+    "puppeteer-autoscroll-down": "^1.1.2"
+  }
+}

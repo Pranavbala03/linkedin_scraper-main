@@ -1,0 +1,37 @@
+{
+  "Name":"John Johnson",
+  "Description":"I'm a serial killer born in Tennesee. I've worked in the past with Pranavbala Ganesh, co-founder of Quadren, and multiple other deranged sociopaths.",
+  "Skills": [
+    "Entrepreneurship",
+    "Murdering",
+    "Cooking"
+  ],
+  "Contact":{
+    "Email":"j.johnson@hotmail.fr",
+    "Website":"killsbyjohn.co"
+  },
+  "Experiences":[
+    {
+      "Role":"Murderer",
+      "Company":"Kills by John",
+      "Timeframe":{
+        "Start":"1 July 2023",
+        "End":"5 August 2023",
+        "Duration":"1 month"
+      },
+      "Location":"Cleveland, OH",
+      "Description":"I have been murdering people under my company since July 2023. Professionally trained!"
+    },
+    {
+      "Role":"Clown",
+      "Company":"Freelance",
+      "Timeframe":{
+        "Start":"8 September 1999",
+        "End":"14 March 2023",
+        "Duration":"24 years"
+      },
+      "Location":"Cleveland, OH",
+      "Description":"You don't want to know"
+    }
+  ]
+}
